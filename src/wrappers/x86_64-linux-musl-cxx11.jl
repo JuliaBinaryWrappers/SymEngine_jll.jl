@@ -20,7 +20,7 @@ libsymengine_path = ""
 libsymengine_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libsymengine = "libsymengine.so.0.5"
+const libsymengine = "libsymengine.so.0.6"
 
 
 """

@@ -10,7 +10,7 @@ LIBPATH = ""
 LIBPATH_env = "PATH"
 
 # Relative path to `libsymengine`
-const libsymengine_splitpath = ["bin", "libsymengine-0.5.dll"]
+const libsymengine_splitpath = ["bin", "libsymengine-0.6.dll"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libsymengine_path = ""
@@ -20,7 +20,7 @@ libsymengine_path = ""
 libsymengine_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libsymengine = "libsymengine-0.5.dll"
+const libsymengine = "libsymengine-0.6.dll"
 
 
 """
