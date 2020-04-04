@@ -1,6 +1,6 @@
 name = "SymEngine_jll"
 uuid = "3428059b-622b-5399-b16f-d347a77089a4"
-version = "0.6.0+0"
+version = "0.6.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
