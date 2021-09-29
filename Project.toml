@@ -1,6 +1,6 @@
 name = "SymEngine_jll"
 uuid = "3428059b-622b-5399-b16f-d347a77089a4"
-version = "0.7.0+0"
+version = "0.8.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
