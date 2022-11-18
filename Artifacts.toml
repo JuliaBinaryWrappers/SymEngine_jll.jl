@@ -1,288 +1,288 @@
 [[SymEngine]]
 arch = "aarch64"
-git-tree-sha1 = "4a5feae2611e84ee6e9b9a6a0901c41d9dd7d864"
+git-tree-sha1 = "2e37e5a8e0548c28e04881d2ed0e24394b159511"
 os = "macos"
 
     [[SymEngine.download]]
-    sha256 = "d2fb00429657d9615e9ab76cd8a66ea2240bdfa31080d2e59111d793d31d81e7"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "94a3cff58871fb37e5fab720ea98d8569cbcde53906550a315bcb8918ce1559f"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.aarch64-apple-darwin.tar.gz"
 [[SymEngine]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33f06cde7d32598252b678c0601507129494daae"
+git-tree-sha1 = "debeccc2c5b3acfa0ebccad34e3498a46873564c"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "d2170527c7bd8c8fe6d46c4423e5208f25e62726dfe97b556282d5e08a8f09a0"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b7e47572e5f1194db6ee24fb1bc7fc6a189bce5fe3c8639e50071fd6c0134dc4"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[SymEngine]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa56a397133f0ba9c02e7ccd0c0e1cabd432736a"
+git-tree-sha1 = "7535c80674b1a8f1e2ebf072e2eace14b68b1f9c"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "15deb421c7a935373ccfce3dfb043514ab50283e4b584ef86bf5db29b6c733ab"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "26bcce2896337198a2317e6228534002dc11d4ba9e05f78c2d2fb3a3d140639d"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[SymEngine]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a4aa458b9594d44fc9dd9abfa7c5ad6b1cb1bae"
+git-tree-sha1 = "0ad458a3f1e92feacea4db3e9e160b6e7590833a"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "c3114b628beec72129bc4e45076329341e0ccc32543fff10bac3dbd91e6f9cb0"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "81e9e8bc600ac7251c84d6b38b1e320df6c6b016289d95bc54ca4b2562475fae"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.aarch64-linux-musl-cxx03.tar.gz"
 [[SymEngine]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b01fed18581eea4a18a297393b08e641e7d6d681"
+git-tree-sha1 = "6e8074afc3bce235d1b2563cf71c92e82bd2f351"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "709f32c4ccbc16fff0d1269751aa5bb5d7db8d65ebc7852f7f80f0dcb763871e"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "74d6e4420403ebb8e5d37175708ce776251090e3246c8e87d556f8c4b6c8ef9d"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
 [[SymEngine]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3efd1aff86d2b3d73cdbc194f7a8ff3716fd1edb"
+git-tree-sha1 = "e35c25569b745f70bc74a17e283652317fdc3e11"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "f75d7472cbb1254b4945ee91789a4de488562e8e0b7dbc918f7bda6a799145d4"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "0fd2a5de27ae896b34e615fa9946d4d7f86d13cea20ad2ddb279ff49069029c9"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[SymEngine]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc737be2c755298fe7fcf21331aa4af4f09dfbe2"
+git-tree-sha1 = "444aa7a87b9ed196fffdecd9cb11d1f2fdf1e637"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "19c6056b9ff10aa33a94f987be89cfd37d57e3b2dad068ac593f4fc3132ec065"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ca017b27447de404d930b5068a8bfd3cfbe0464b682763e2e841a2a3a7865e4e"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[SymEngine]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eba443cadf9697852b9c2d85d287a5ac4ca2436c"
+git-tree-sha1 = "5edbbf077adb1838f4e3179eb56117f7a88f1bdb"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "7950521e7cf39d21bbedf0035a40d712c0c1b1e82a79c4c3c58071b97c2d4705"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "0d64a11fb66076a1298692e86eb01e9d7083183381ca585ba3c1b83e7318cb96"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[SymEngine]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ecb9607640555d2ed71465bdd594b7add81d0c1"
+git-tree-sha1 = "eed947a7b62feb376ca115e9c69090397339064f"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "7ce43ac3249dc5efb740492b1be446a97396b30ec7fa7ee800a224df809b8bd0"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5596fa4063facf369ee71a3d05cf0edbea6b018d4b4ee55b98872a9096ef4c3e"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[SymEngine]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "076a9b150fa2618e51c76820c7744be061278a9c"
+git-tree-sha1 = "673b28368dd79e8d3ba4802ddb15fbbaf1514a92"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "66ff0c76800d8cae0a9715b1fcf59e5f4dd8d8613fc12c0b8763855b2e02738a"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "121577c76fabd448c33c6e1e571e3b30689151c0e8f3406c15de1a9d51ce39a0"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SymEngine]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82cec7586bcef5a9dcf5a3a3ecfdc6d1736dd471"
+git-tree-sha1 = "f08f07f9b73cc6256ab4555514050724bf914e61"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "8e02e2c978481a80f992a8ffb934c3a46482250b3327b4d5fb862c958c7f4305"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "40896076e481f5153b8f64d39f59c59ec7a34562f3feae68dc8bf38113d7c570"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SymEngine]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e6b30d599be5a60f5f88583a32e7769adb7e938a"
+git-tree-sha1 = "037de0e4e50ce64cc8ea5e281cf93f844ad6cda5"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "c6945bfb7f7c3be30d1ab223e469c0b91e3d783b74dc5870f44cbab561ad74b4"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "7b65ef3909232595e016aa82f5609384a1f8384fd5e2ee0b5d1dd2a1798acbf5"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SymEngine]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ebe88b6a27b5a5d0deb17c75a6bccb7384b42c0"
+git-tree-sha1 = "c310b83293d313967af261b621953c0043fc1ef6"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "bd6be8d3ae01da22128edf6b191ff89e25900725d5416cc24f8d4d95d1b9acb1"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "2dd6734b7cf252cf8723a102a6094a09de30ed69b624de2847d782df4441621f"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "687a9ec2244b049846442ad8345d11c3d8b979fe"
+git-tree-sha1 = "061f577d12f1b0e75daa96589cd857959d141211"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "c6bcf758102e5675dfd06d0d175f512a39b5d277de5837938c7817e9267897fe"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "e90972be76c870ffed12ac4c12b2c1f654c0290526dc20e8157e416caf570ab0"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-linux-gnu-cxx03.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d202184e36e0bd5a6b59ef36ace2cf967060250e"
+git-tree-sha1 = "b73b977cd9a047227c36720dd11c20c84ba30a40"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "83e5ad22681db634f7bcf65d1242c2d772dbbf04614267219d9fa404e932e3d8"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "d0833940a251e19db6c3980a603d74c4656f2ee4706140cefefb709831911fcf"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e66574971c8343af6fc9bd5e4c8c763af28e200"
+git-tree-sha1 = "6e51c181d9cb381ae721c6559952a5c1ee8377bb"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "60275dd78870144003d9ecfdd7e323eed63f09fc51df324378a227c7317c8355"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "e3d2424ff9167d330cab2d00d9cc4330867688a50a8ddc71fd860fecc0062ffb"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-linux-musl-cxx03.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5313a540af7ef6a06339bbd1588f4f574185479f"
+git-tree-sha1 = "40ec8f127de288eec74961c1099be5767a7b7dd8"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "00107f99e2164abdb411ace4ac4e7c90f8a3b79a390c538823f4f3b59fcee47a"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "65453df0608ebc0a36db1b494c8d9c526a8ff7eaedcfe7bb8b79d896940ea92b"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-linux-musl-cxx11.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6adb874a6ff2c1d49e266b9458ad2d72b6651f07"
+git-tree-sha1 = "83156849db7f31dd028a0f2991d6e24db6e60329"
 os = "windows"
 
     [[SymEngine.download]]
-    sha256 = "411155992d91747fa2a952c1821ddfba228f350c116755c7f2c6c59cea5dc802"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "eb8fd5e702e55575fb4e0442895b547da4cb288e7df0d0af539160fd7c704054"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-w64-mingw32-cxx03.tar.gz"
 [[SymEngine]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ab332f40a75b7f3c0b2fdf73fd7069f0fd34435"
+git-tree-sha1 = "7e357228576f9c8ff1f7539197d8a64f44f71946"
 os = "windows"
 
     [[SymEngine.download]]
-    sha256 = "96ea1668cab315855ce9d7f39499e970e884cef9b6d193b8ac3715e4b005e059"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a72b7d7416738d99516909bf0fef1492d5bd65228ccdfac30b441cdc54f06d1e"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.i686-w64-mingw32-cxx11.tar.gz"
 [[SymEngine]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b36643b538f7d6e395be53c0337081ec82f32eed"
+git-tree-sha1 = "a0653d6b344b5a5d680eba575a89ca506faf75b0"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "3b68e475068498f64ff649f001f1fdae3ee021d4cea08c863da16e9b9859cae9"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "20b01338265d1df1bac4758cd3f6419332f0e84615aa1ecd42961927f0cf13fa"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SymEngine]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12079a24a2e044e036ca4e996050843aa9d3439b"
+git-tree-sha1 = "a8cd93b1ba5a9f2d1daabb0ab8d3a4f757c1b037"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "c4203a5bc38ffe3a47fa7d584ef73a199cc35f2351f4aa2baf8f514dd5267ada"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "95e76f35f3d68aa360e0c2a055234c09e25d9efbe9da5ad346361313fa023f0d"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
-git-tree-sha1 = "5819bb846c22672aecd1ee3d64f7afe1e92c2d6a"
+git-tree-sha1 = "72bbdc1bf66a1722a793e6fb95d39c18029d3937"
 os = "macos"
 
     [[SymEngine.download]]
-    sha256 = "289ddb7f96df09da5a71138ac21dffd6e8d07cae5bec9803aaf625bb324bd167"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "49c9d878d256068c33844c382bf70dc5398063e5917df979b708f0ed524ee0f7"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-apple-darwin.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf12c2fa66fb5857e2320d4458309d064f96724c"
+git-tree-sha1 = "9be862592e281c8e4cf4b4c7f32166f32eb33f62"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "9f6f4ff9278733a7c4677b9c23f43a2cf8a1442e25aa72db652c6036ec96afba"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6a1d0bcfe0e08ded04da8cd214e3c794f634daff0852a146bce08b137aacc326"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b5243f7039224065ffc7da9cdfb620b38ce93538"
+git-tree-sha1 = "7b99956590f90a608ded76e0757af76a17f8289a"
 libc = "glibc"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "55b6a3af9e5e36833961c0326e476af3e4fd81ca4fdbf472777ca19fe0a563ab"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "bdcf4e2a3e694509abac184a29c466a5aecb068c8eaf6b8c8dc0d57f5682b464"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d62d5c35ed1a62ace1b5fc341a8f4d25fd225dd3"
+git-tree-sha1 = "860379bbdda4da18715002679cb4b33216cc13a7"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "59cdc90c996944b40e90b4b9845a0cc645a34f19a37c98e1dc574ee3cf85ab6c"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "3c4f1102129e10f1348965f3831368a1359b81405121c96588cdc190970c8d39"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-linux-musl-cxx03.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1361bdba56e046f1a62616005de6ac8ca6247f4"
+git-tree-sha1 = "c5b3335df930f7bb58c38022bbb7ee993acac317"
 libc = "musl"
 os = "linux"
 
     [[SymEngine.download]]
-    sha256 = "e4b15a18d4fa66fea840994a874dcee0e58400064d9d1f8ad9d9a3b5b80eb56c"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "fbd43a71413de20281179c7008cec1407c507b4f804ff722f12214ca7a5568c9"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
-git-tree-sha1 = "bcf30083a37d76b5c515effa6b033c216929a148"
+git-tree-sha1 = "a1041f70d952740f926569aeb92189fc7ed0c8ea"
 os = "freebsd"
 
     [[SymEngine.download]]
-    sha256 = "ae38a923747aa11761139195e4c0a44dee37859d68b754a5a292a859ea0f98df"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fd539f3d092cb693f4c61955be4eb0144134cf076efffdb45cb9d847b788bde4"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-unknown-freebsd.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f69332f8b8fc5d08f9463196850dc28017341116"
+git-tree-sha1 = "206760427c3db814ca5db9fe8a10b6c657e0ff25"
 os = "windows"
 
     [[SymEngine.download]]
-    sha256 = "a3054900ebfe5e09c4807b40696043e18402986c41087a960734d51ae63ce229"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d99b83e1f0cd99ad685d8f34860266bba51d235b661417272c46e6781e87a9c9"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[SymEngine]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fdff4e9e7a990be5e69fd9b9fe0af45416b93b7c"
+git-tree-sha1 = "4285b91617e6f3ad440b3733f96927e7601ba3bf"
 os = "windows"
 
     [[SymEngine.download]]
-    sha256 = "d1e0e9b72c71ac487d98b8a24dbeef8cb0c05fe612e9717d91430912460cc5eb"
-    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+0/SymEngine.v0.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "1f0725fa855ece7f355a6bfbcfd4ed32fb5c3ad7eccd9e36458eebbdeae4f5d8"
+    url = "https://github.com/JuliaBinaryWrappers/SymEngine_jll.jl/releases/download/SymEngine-v0.9.0+1/SymEngine.v0.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
