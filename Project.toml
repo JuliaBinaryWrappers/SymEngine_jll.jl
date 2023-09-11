@@ -1,10 +1,9 @@
 name = "SymEngine_jll"
 uuid = "3428059b-622b-5399-b16f-d347a77089a4"
-version = "0.9.0+1"
+version = "0.10.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 MPFR_jll = "3a97d323-0669-5f0c-9066-3539efd106a3"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
