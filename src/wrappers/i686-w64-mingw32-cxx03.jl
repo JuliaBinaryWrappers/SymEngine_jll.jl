@@ -5,12 +5,12 @@ using GMP_jll
 using MPFR_jll
 using MPC_jll
 JLLWrappers.@generate_wrapper_header("SymEngine")
-JLLWrappers.@declare_library_product(libsymengine, "libsymengine-0.10.dll")
+JLLWrappers.@declare_library_product(libsymengine, "libsymengine-0.11.dll")
 function __init__()
     JLLWrappers.@generate_init_header(GMP_jll, MPFR_jll, MPC_jll)
     JLLWrappers.@init_library_product(
         libsymengine,
-        "bin\\libsymengine-0.10.dll",
+        "bin\\libsymengine-0.11.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
