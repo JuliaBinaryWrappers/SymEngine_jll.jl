@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@generate_init_header(GMP_jll, MPFR_jll, MPC_jll)
     JLLWrappers.@init_library_product(
         libsymengine,
-        "lib/libsymengine.0.11.1.dylib",
+        "lib/libsymengine.0.11.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
