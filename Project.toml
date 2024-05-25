@@ -1,6 +1,6 @@
 name = "SymEngine_jll"
 uuid = "3428059b-622b-5399-b16f-d347a77089a4"
-version = "0.11.2+0"
+version = "0.12.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+GMP_jll = "6.2.0"
+MPFR_jll = "4.1.1"
 Libdl = "1"
 Artifacts = "1"
+MPC_jll = "1.2.1"
